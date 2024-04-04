@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-cards:
+accounts:
   message: "Welcome to MDFinance accounts related local APIs "
   contactDetails:
     name: "Drags Lech - Developer"
