@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to MDFinance accounts related QA APIs "
+  message: "Welcome to MDFinance accounts related QA docker APIs "
   contactDetails:
     name: "Cherry Pankaj - QA Lead"
     email: "cherryl@eazybank.com"
